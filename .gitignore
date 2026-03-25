@@ -131,3 +131,34 @@ dist
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Editor temp files
+*.swp
+*.swo
+*~
+.project
+
+# Vite build cache
+.vite/
+
+# Build artifacts
+build/
+
+# Vercel
+.vercel/
+.vercelignore
+
+# Environment
+.env.local
+.env.*.local
+
+# Testing & Coverage
+coverage/
+.coverage/
+
+# OS
+*.tmp
