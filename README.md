@@ -236,7 +236,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 About
 
-**Sharma Interior** - Professional interior design services in Jaipur, Rajasthan.
+**Sharma Interior** - Professional interior design services in Mumbai, Maharashtra.
 
 ---
 
